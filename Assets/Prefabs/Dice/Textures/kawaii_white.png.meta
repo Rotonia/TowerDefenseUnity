@@ -1,0 +1,2234 @@
+fileFormatVersion: 2
+guid: 347822fdfeded8d4985ef3330d71a82e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6952117910142879501
+    second: kawaii_white_0
+  - first:
+      213: -8572019461492692759
+    second: kawaii_white_1
+  - first:
+      213: 8915589810433128109
+    second: kawaii_white_2
+  - first:
+      213: -1709970839743015354
+    second: kawaii_white_3
+  - first:
+      213: 8132058044525436328
+    second: kawaii_white_4
+  - first:
+      213: 3875065945120651926
+    second: kawaii_white_5
+  - first:
+      213: -6752542380768069949
+    second: kawaii_white_6
+  - first:
+      213: 2798120885137164289
+    second: kawaii_white_7
+  - first:
+      213: -7998602763629564370
+    second: kawaii_white_8
+  - first:
+      213: 8367874794488064322
+    second: kawaii_white_9
+  - first:
+      213: 9169147764917613177
+    second: kawaii_white_10
+  - first:
+      213: 5832374515879276917
+    second: kawaii_white_11
+  - first:
+      213: -8881236314000354566
+    second: kawaii_white_12
+  - first:
+      213: -7503701278315534322
+    second: kawaii_white_13
+  - first:
+      213: -7574222385627193664
+    second: kawaii_white_14
+  - first:
+      213: 8047099264164950861
+    second: kawaii_white_15
+  - first:
+      213: -5648849741784088055
+    second: kawaii_white_16
+  - first:
+      213: 3919754112386832128
+    second: kawaii_white_17
+  - first:
+      213: 7411141936614383672
+    second: kawaii_white_18
+  - first:
+      213: -4990467073070228016
+    second: kawaii_white_19
+  - first:
+      213: -5493795928883085477
+    second: kawaii_white_20
+  - first:
+      213: 2948570212886976136
+    second: kawaii_white_21
+  - first:
+      213: 1653506860806575986
+    second: kawaii_white_22
+  - first:
+      213: -668526127372450290
+    second: kawaii_white_23
+  - first:
+      213: -4840328941786528851
+    second: kawaii_white_24
+  - first:
+      213: -1139333910053807823
+    second: kawaii_white_25
+  - first:
+      213: -3720549059185575833
+    second: kawaii_white_26
+  - first:
+      213: -9026432644316788728
+    second: kawaii_white_27
+  - first:
+      213: 2101910809507471280
+    second: kawaii_white_28
+  - first:
+      213: -4150343430141484159
+    second: kawaii_white_29
+  - first:
+      213: -5594175833296494492
+    second: kawaii_white_30
+  - first:
+      213: -4059773261082662732
+    second: kawaii_white_31
+  - first:
+      213: 6258983911216918207
+    second: kawaii_white_32
+  - first:
+      213: 8082008261846199940
+    second: kawaii_white_33
+  - first:
+      213: 1132831658857373559
+    second: kawaii_white_34
+  - first:
+      213: 4519737576186186473
+    second: kawaii_white_35
+  - first:
+      213: 4778608240807928059
+    second: kawaii_white_36
+  - first:
+      213: -8372493515880716772
+    second: kawaii_white_37
+  - first:
+      213: -8974486067405908177
+    second: kawaii_white_38
+  - first:
+      213: 2736792482846328549
+    second: kawaii_white_39
+  - first:
+      213: 8715685410920088504
+    second: kawaii_white_40
+  - first:
+      213: 2544108580288433710
+    second: kawaii_white_41
+  - first:
+      213: -1164516702387437104
+    second: kawaii_white_42
+  - first:
+      213: 5233091568343089499
+    second: kawaii_white_43
+  - first:
+      213: 943797407692008019
+    second: kawaii_white_44
+  - first:
+      213: 1045042385870225764
+    second: kawaii_white_45
+  - first:
+      213: 7105268001165488204
+    second: kawaii_white_46
+  - first:
+      213: 5852717810044035061
+    second: kawaii_white_47
+  - first:
+      213: 3438232104832147449
+    second: kawaii_white_48
+  - first:
+      213: -7390474593809211320
+    second: kawaii_white_49
+  - first:
+      213: 6409429294092308127
+    second: kawaii_white_50
+  - first:
+      213: 3160279292518192767
+    second: kawaii_white_51
+  - first:
+      213: 7565439643099587580
+    second: kawaii_white_52
+  - first:
+      213: 5296851552245178780
+    second: kawaii_white_53
+  - first:
+      213: -4889631697027292309
+    second: kawaii_white_54
+  - first:
+      213: 2158235616979087436
+    second: kawaii_white_55
+  - first:
+      213: -2690349743661911186
+    second: kawaii_white_56
+  - first:
+      213: 5578839106421814983
+    second: kawaii_white_57
+  - first:
+      213: 5818577062472989680
+    second: kawaii_white_58
+  - first:
+      213: 4863988525834756901
+    second: kawaii_white_59
+  - first:
+      213: 6882470762739970299
+    second: kawaii_white_60
+  - first:
+      213: -4896646636625798961
+    second: kawaii_white_61
+  - first:
+      213: -882797336324465276
+    second: kawaii_white_62
+  - first:
+      213: 6951712902953895747
+    second: kawaii_white_63
+  - first:
+      213: 5644779337498766657
+    second: kawaii_white_64
+  - first:
+      213: -6470093760260995434
+    second: kawaii_white_65
+  - first:
+      213: -8936924831775120505
+    second: kawaii_white_66
+  - first:
+      213: 2041338270458011945
+    second: kawaii_white_67
+  - first:
+      213: 317017937412568176
+    second: kawaii_white_68
+  - first:
+      213: 2120927330567399867
+    second: kawaii_white_69
+  - first:
+      213: 639558597667791225
+    second: kawaii_white_70
+  - first:
+      213: 9002210879494525973
+    second: kawaii_white_71
+  - first:
+      213: 4353611275042622548
+    second: kawaii_white_72
+  - first:
+      213: 2294808463937369603
+    second: kawaii_white_73
+  - first:
+      213: -1693764308730371806
+    second: kawaii_white_74
+  - first:
+      213: 2923696278123880707
+    second: kawaii_white_75
+  - first:
+      213: -692487336410036767
+    second: kawaii_white_76
+  - first:
+      213: 8388978129055658560
+    second: kawaii_white_77
+  - first:
+      213: -6249741223808494807
+    second: kawaii_white_78
+  - first:
+      213: 5986593838269603903
+    second: kawaii_white_79
+  - first:
+      213: 6569113841278643669
+    second: kawaii_white_80
+  - first:
+      213: 3329740418966298283
+    second: kawaii_white_81
+  - first:
+      213: 1932722458807322528
+    second: kawaii_white_82
+  - first:
+      213: -4972482931709435830
+    second: kawaii_white_83
+  - first:
+      213: -4090894908889891964
+    second: kawaii_white_84
+  - first:
+      213: 3205975354825937322
+    second: kawaii_white_85
+  - first:
+      213: 6186004219417934635
+    second: kawaii_white_86
+  - first:
+      213: 4665824394144784438
+    second: kawaii_white_87
+  - first:
+      213: -4620033916628749430
+    second: kawaii_white_88
+  - first:
+      213: 8972935738072530429
+    second: kawaii_white_89
+  - first:
+      213: -4959236518697764346
+    second: kawaii_white_90
+  - first:
+      213: 1339521726059608064
+    second: kawaii_white_91
+  - first:
+      213: -6915839038279881466
+    second: kawaii_white_92
+  - first:
+      213: 4019117471956357739
+    second: kawaii_white_93
+  - first:
+      213: -7807292361922907263
+    second: kawaii_white_94
+  - first:
+      213: -1553021642089718845
+    second: kawaii_white_95
+  - first:
+      213: 3566677831897240107
+    second: kawaii_white_96
+  - first:
+      213: -3050123608024862408
+    second: kawaii_white_97
+  - first:
+      213: -5921349744518689905
+    second: kawaii_white_98
+  - first:
+      213: -45465874581614438
+    second: kawaii_white_99
+  - first:
+      213: 400871961163095
+    second: kawaii_white_100
+  - first:
+      213: -3065896909554034973
+    second: kawaii_white_101
+  - first:
+      213: -2159429937094529563
+    second: kawaii_white_102
+  - first:
+      213: -433205553995751244
+    second: kawaii_white_103
+  - first:
+      213: 3018094485228252966
+    second: kawaii_white_104
+  - first:
+      213: 6183678273648622528
+    second: kawaii_white_105
+  - first:
+      213: -5724897701918970643
+    second: kawaii_white_106
+  - first:
+      213: -2094778848445908275
+    second: kawaii_white_107
+  - first:
+      213: -4566221232736226670
+    second: kawaii_white_108
+  - first:
+      213: 1878482282037564370
+    second: kawaii_white_109
+  - first:
+      213: 3628148125198190369
+    second: kawaii_white_110
+  - first:
+      213: -181817185276499757
+    second: kawaii_white_111
+  - first:
+      213: 7938129008900853623
+    second: kawaii_white_112
+  - first:
+      213: 5400157056132941967
+    second: kawaii_white_113
+  - first:
+      213: 2356296932905931514
+    second: kawaii_white_114
+  - first:
+      213: 2772315830938932487
+    second: kawaii_white_115
+  - first:
+      213: 3944534852057548208
+    second: kawaii_white_116
+  - first:
+      213: -1070149984396225482
+    second: kawaii_white_117
+  - first:
+      213: 1511592493313343966
+    second: kawaii_white_118
+  - first:
+      213: 8340384963393259176
+    second: kawaii_white_119
+  - first:
+      213: 1960091035370255291
+    second: kawaii_white_120
+  - first:
+      213: -2099369013247725876
+    second: kawaii_white_121
+  - first:
+      213: -3019042163370168261
+    second: kawaii_white_122
+  - first:
+      213: 1150298063267200497
+    second: kawaii_white_123
+  - first:
+      213: -4163504016041690443
+    second: kawaii_white_124
+  - first:
+      213: 4828280787642070943
+    second: kawaii_white_125
+  - first:
+      213: 3349793997330712300
+    second: kawaii_white_126
+  - first:
+      213: -1833298079519216127
+    second: kawaii_white_127
+  - first:
+      213: 6197986099978067937
+    second: kawaii_white_128
+  - first:
+      213: 4851371604845768133
+    second: kawaii_white_129
+  - first:
+      213: 444362203860675287
+    second: kawaii_white_130
+  - first:
+      213: 7601479039687249045
+    second: kawaii_white_131
+  - first:
+      213: 2041723687121772223
+    second: kawaii_white_132
+  - first:
+      213: -6967047507196133486
+    second: kawaii_white_133
+  - first:
+      213: 7823607357845761754
+    second: kawaii_white_134
+  - first:
+      213: 2355676965690956221
+    second: kawaii_white_135
+  - first:
+      213: 4627830389319722212
+    second: kawaii_white_136
+  - first:
+      213: -3838589985645661097
+    second: kawaii_white_137
+  - first:
+      213: 4008517356303823810
+    second: kawaii_white_138
+  - first:
+      213: -4646269648237219196
+    second: kawaii_white_139
+  - first:
+      213: -6928533069910410655
+    second: kawaii_white_140
+  - first:
+      213: 8269471073805059253
+    second: kawaii_white_141
+  - first:
+      213: -8487427779026241401
+    second: kawaii_white_142
+  - first:
+      213: -6461207093937432583
+    second: kawaii_white_143
+  - first:
+      213: -3864695864810050118
+    second: kawaii_white_144
+  - first:
+      213: -4735338769136209360
+    second: kawaii_white_145
+  - first:
+      213: 7573640431778902883
+    second: kawaii_white_146
+  - first:
+      213: -2025911182484882445
+    second: kawaii_white_147
+  - first:
+      213: 4469038835038352263
+    second: kawaii_white_148
+  - first:
+      213: -3070113067622818223
+    second: kawaii_white_149
+  - first:
+      213: -7936021476008487154
+    second: kawaii_white_150
+  - first:
+      213: 3959779772657507741
+    second: kawaii_white_151
+  - first:
+      213: 6149057899223744380
+    second: kawaii_white_152
+  - first:
+      213: 7462602294248641345
+    second: kawaii_white_153
+  - first:
+      213: -2139592680256496091
+    second: kawaii_white_154
+  - first:
+      213: -2957779028043148352
+    second: kawaii_white_155
+  - first:
+      213: -8566566001625207883
+    second: kawaii_white_156
+  - first:
+      213: -4377949496812805025
+    second: kawaii_white_157
+  - first:
+      213: -6377466429395851471
+    second: kawaii_white_158
+  - first:
+      213: -6102603577353254218
+    second: kawaii_white_159
+  - first:
+      213: 7295830774024812542
+    second: kawaii_white_160
+  - first:
+      213: 7879498061781736073
+    second: kawaii_white_161
+  - first:
+      213: 5586761657203914459
+    second: kawaii_white_162
+  - first:
+      213: -6432898514906992743
+    second: kawaii_white_163
+  - first:
+      213: 7968405717184298941
+    second: kawaii_white_164
+  - first:
+      213: -2762872568380177208
+    second: kawaii_white_165
+  - first:
+      213: 7960528737092982890
+    second: kawaii_white_166
+  - first:
+      213: -2051493878512170412
+    second: kawaii_white_167
+  - first:
+      213: 1523190457356503484
+    second: kawaii_white_168
+  - first:
+      213: -7581868173310446208
+    second: kawaii_white_169
+  - first:
+      213: 7882749462237110391
+    second: kawaii_white_170
+  - first:
+      213: 6067461900571795858
+    second: kawaii_white_171
+  - first:
+      213: -34654700089407126
+    second: kawaii_white_172
+  - first:
+      213: -5112990707655846711
+    second: kawaii_white_173
+  - first:
+      213: 9121810816031926587
+    second: kawaii_white_174
+  - first:
+      213: 6333077577068763356
+    second: kawaii_white_175
+  - first:
+      213: -8957139662661462818
+    second: kawaii_white_176
+  - first:
+      213: 6226585948229397145
+    second: kawaii_white_177
+  - first:
+      213: -4978228267997250087
+    second: kawaii_white_178
+  - first:
+      213: 5459878566259131232
+    second: kawaii_white_179
+  - first:
+      213: 3954566516217929692
+    second: kawaii_white_180
+  - first:
+      213: -4950866493929668566
+    second: kawaii_white_181
+  - first:
+      213: -3644486828547705463
+    second: kawaii_white_182
+  - first:
+      213: 2411845910498166077
+    second: kawaii_white_183
+  - first:
+      213: -1635931539733357421
+    second: kawaii_white_184
+  - first:
+      213: 981584775120019537
+    second: kawaii_white_185
+  - first:
+      213: -5517902931426536910
+    second: kawaii_white_186
+  - first:
+      213: -5837112102285111661
+    second: kawaii_white_187
+  - first:
+      213: -7997189890068558297
+    second: kawaii_white_188
+  - first:
+      213: -2234412064811499299
+    second: kawaii_white_189
+  - first:
+      213: -3366608670649220841
+    second: kawaii_white_190
+  - first:
+      213: 5168160066378999476
+    second: kawaii_white_191
+  - first:
+      213: 5607718566280249239
+    second: kawaii_white_192
+  - first:
+      213: -22969683660764805
+    second: kawaii_white_193
+  - first:
+      213: -1421208055149705735
+    second: kawaii_white_194
+  - first:
+      213: 6971673325847721135
+    second: kawaii_white_195
+  - first:
+      213: 2957085637438371042
+    second: kawaii_white_196
+  - first:
+      213: -3501304666645239550
+    second: kawaii_white_197
+  - first:
+      213: -5029855348585576256
+    second: kawaii_white_198
+  - first:
+      213: 6859143475719647848
+    second: kawaii_white_199
+  - first:
+      213: 5726018676906344273
+    second: kawaii_white_200
+  - first:
+      213: -5290116089185318
+    second: kawaii_white_201
+  - first:
+      213: -2344249421682698624
+    second: kawaii_white_202
+  - first:
+      213: -4191403702856354635
+    second: kawaii_white_203
+  - first:
+      213: -8741512494705847947
+    second: kawaii_white_204
+  - first:
+      213: 2653663086220896909
+    second: kawaii_white_205
+  - first:
+      213: 9017541348065834232
+    second: kawaii_white_206
+  - first:
+      213: 4411639159567206880
+    second: kawaii_white_207
+  - first:
+      213: 6942021994433076045
+    second: kawaii_white_208
+  - first:
+      213: 7414711900740451399
+    second: kawaii_white_209
+  - first:
+      213: 7807944920372403714
+    second: kawaii_white_210
+  - first:
+      213: -6643017994427573568
+    second: kawaii_white_211
+  - first:
+      213: -4122151408831092067
+    second: kawaii_white_212
+  - first:
+      213: -4099990702332486714
+    second: kawaii_white_213
+  - first:
+      213: 3047599213592354851
+    second: kawaii_white_214
+  - first:
+      213: -179068339131334865
+    second: kawaii_white_215
+  - first:
+      213: -8988050084292522727
+    second: kawaii_white_216
+  - first:
+      213: -5135266539264955546
+    second: kawaii_white_217
+  - first:
+      213: -6546836740780243859
+    second: kawaii_white_218
+  - first:
+      213: -433474428463887166
+    second: kawaii_white_219
+  - first:
+      213: 1519619149009849496
+    second: kawaii_white_220
+  - first:
+      213: 1720014336247781372
+    second: kawaii_white_221
+  - first:
+      213: -6528642097506533794
+    second: kawaii_white_222
+  - first:
+      213: -5946335729119520386
+    second: kawaii_white_223
+  - first:
+      213: 2810348163172203577
+    second: kawaii_white_224
+  - first:
+      213: 6436598635092551447
+    second: kawaii_white_225
+  - first:
+      213: -298382886462075264
+    second: kawaii_white_226
+  - first:
+      213: 3977471822656094390
+    second: kawaii_white_227
+  - first:
+      213: 5288780371222093624
+    second: kawaii_white_228
+  - first:
+      213: -5624824352072201512
+    second: kawaii_white_229
+  - first:
+      213: 6879710394520705103
+    second: kawaii_white_230
+  - first:
+      213: 3228216770904646138
+    second: kawaii_white_231
+  - first:
+      213: 6167117384963718343
+    second: kawaii_white_232
+  - first:
+      213: 1016053851092231962
+    second: kawaii_white_233
+  - first:
+      213: -5453797319830932116
+    second: kawaii_white_234
+  - first:
+      213: 4981957948641968022
+    second: kawaii_white_235
+  - first:
+      213: 5593603224941252000
+    second: kawaii_white_236
+  - first:
+      213: 3881868151026503302
+    second: kawaii_white_237
+  - first:
+      213: -1184781831915858637
+    second: kawaii_white_238
+  - first:
+      213: -7481524873248668551
+    second: kawaii_white_239
+  - first:
+      213: -3838664916256489276
+    second: kawaii_white_240
+  - first:
+      213: 7419767120266541630
+    second: kawaii_white_241
+  - first:
+      213: 9086559161692518694
+    second: kawaii_white_242
+  - first:
+      213: -6586898215991378606
+    second: kawaii_white_243
+  - first:
+      213: 2044057956032315329
+    second: kawaii_white_244
+  - first:
+      213: 5740827951185501166
+    second: kawaii_white_245
+  - first:
+      213: -9161711674486621438
+    second: kawaii_white_246
+  - first:
+      213: 1217666762088409216
+    second: kawaii_white_247
+  - first:
+      213: 1207059182358161559
+    second: kawaii_white_248
+  - first:
+      213: -5185548820238952699
+    second: kawaii_white_249
+  - first:
+      213: -800742518114131301
+    second: kawaii_white_250
+  - first:
+      213: -2000040176048860748
+    second: kawaii_white_251
+  - first:
+      213: -4581313390291975088
+    second: kawaii_white_252
+  - first:
+      213: -6911193079243096667
+    second: kawaii_white_253
+  - first:
+      213: -2147802604601980985
+    second: kawaii_white_254
+  - first:
+      213: -3693567078988833176
+    second: kawaii_white_0
+  - first:
+      213: 5012585344005685195
+    second: kawaii_white_1
+  - first:
+      213: 2309180239757850557
+    second: kawaii_white_2
+  - first:
+      213: 3265426409550863709
+    second: kawaii_white_3
+  - first:
+      213: 3041290188235697819
+    second: kawaii_white_4
+  - first:
+      213: 3750477068400175048
+    second: kawaii_white_5
+  - first:
+      213: -7794363407501526213
+    second: kawaii_white_6
+  - first:
+      213: -1127206113593107372
+    second: kawaii_white_7
+  - first:
+      213: 5623108276232114680
+    second: kawaii_white_8
+  - first:
+      213: 4259322968972116943
+    second: kawaii_white_9
+  - first:
+      213: -4964136407633996967
+    second: kawaii_white_10
+  - first:
+      213: -360099158789188565
+    second: kawaii_white_11
+  - first:
+      213: 6303000380232383357
+    second: kawaii_white_12
+  - first:
+      213: -8045594618773115727
+    second: kawaii_white_13
+  - first:
+      213: 757565901790586310
+    second: kawaii_white_14
+  - first:
+      213: -6131333012345386807
+    second: kawaii_white_15
+  - first:
+      213: 6929613156744738807
+    second: kawaii_white_16
+  - first:
+      213: 4614684687755647253
+    second: kawaii_white_17
+  - first:
+      213: 8935153092544079467
+    second: kawaii_white_18
+  - first:
+      213: -8875036334706963321
+    second: kawaii_white_19
+  - first:
+      213: -6127349476187294103
+    second: kawaii_white_20
+  - first:
+      213: 8106288668198327491
+    second: kawaii_white_21
+  - first:
+      213: 6089682004940689304
+    second: kawaii_white_22
+  - first:
+      213: 1809189017611882554
+    second: kawaii_white_23
+  - first:
+      213: 9169637067621390170
+    second: kawaii_white_24
+  - first:
+      213: -2763342435325494678
+    second: kawaii_white_25
+  - first:
+      213: 8129795786654087922
+    second: kawaii_white_26
+  - first:
+      213: 663818230029079693
+    second: kawaii_white_27
+  - first:
+      213: 774380238101106613
+    second: kawaii_white_28
+  - first:
+      213: -1517264710420246161
+    second: kawaii_white_29
+  - first:
+      213: 5813384807147131085
+    second: kawaii_white_30
+  - first:
+      213: -5695993086087500098
+    second: kawaii_white_31
+  - first:
+      213: 2302529438867996123
+    second: kawaii_white_32
+  - first:
+      213: -1275243805297408836
+    second: kawaii_white_33
+  - first:
+      213: 6215666585389326168
+    second: kawaii_white_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 4
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 59, y: 1119, z: 1049, w: 63}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kawaii_white_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1080
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ad38d50f5c0430800000000000000
+      internalID: 3750477068400175048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7195f6cbd4d390800000000000000
+      internalID: -7794363407501526213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 960
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c52aa030c5b50f0800000000000000
+      internalID: -1127206113593107372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1df5a4f2b490e40800000000000000
+      internalID: 5623108276232114680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ce356ca72c1b30800000000000000
+      internalID: 4259322968972116943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95354660d38db1bb0800000000000000
+      internalID: -4964136407633996967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 960
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24147419bba00bf0800000000000000
+      internalID: -360099158789188565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b37ea7371c87750800000000000000
+      internalID: 6303000380232383357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 840
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bceb35525e485090800000000000000
+      internalID: -8045594618773115727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 840
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52d268c2a638a00800000000000000
+      internalID: 757565901790586310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c807874c1129eaa0800000000000000
+      internalID: -6131333012345386807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 840
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b4ae837eea2060800000000000000
+      internalID: 6929613156744738807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 840
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5191c1c1647aa0040800000000000000
+      internalID: 4614684687755647253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a2dea56a000c70800000000000000
+      internalID: 8935153092544079467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 720
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4b1db97985d480800000000000000
+      internalID: -8875036334706963321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9663e219d1847faa0800000000000000
+      internalID: -6127349476187294103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45cb248925f7070800000000000000
+      internalID: 8106288668198327491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f049bd485e28450800000000000000
+      internalID: 6089682004940689304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 720
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305b4673d78b1910800000000000000
+      internalID: 1809189017611882554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d3d68458114f70800000000000000
+      internalID: 9169637067621390170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a39a522b2a6a9d0800000000000000
+      internalID: -2763342435325494678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fafbf7c136d2d070800000000000000
+      internalID: 8129795786654087922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84df44c92b563900800000000000000
+      internalID: 663818230029079693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf491549b62fba00800000000000000
+      internalID: 774380238101106613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615a21e8c791fae0800000000000000
+      internalID: -1517264710420246161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc058a47eaa4da050800000000000000
+      internalID: 5813384807147131085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe6ca48774c3f0b0800000000000000
+      internalID: -5695993086087500098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3b98435a34ff10800000000000000
+      internalID: 2302529438867996123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40b3ff38c6d4ee0800000000000000
+      internalID: -1275243805297408836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5560d3db724650800000000000000
+      internalID: 6215666585389326168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0782b6c762ea7060800000000000000
+      internalID: 6952117910142879501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1080
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e82efd57b11a0980800000000000000
+      internalID: -8572019461492692759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1080
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da675fd12b98abb70800000000000000
+      internalID: 8915589810433128109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1080
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64657d0c496f448e0800000000000000
+      internalID: -1709970839743015354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1080
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addbccb4bfdad070800000000000000
+      internalID: 8132058044525436328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 480
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0092016559be30800000000000000
+      internalID: 4519737576186186473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf06c1a70e6015240800000000000000
+      internalID: 4778608240807928059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 360
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c162ba5b18deecb80800000000000000
+      internalID: -8372493515880716772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 360
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2714967878347380800000000000000
+      internalID: -8974486067405908177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c304534a0bf520800000000000000
+      internalID: 2736792482846328549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 360
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b342fb14b554f870800000000000000
+      internalID: 8715685410920088504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 360
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8d16464d7e4320800000000000000
+      internalID: 2544108580288433710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10033aa3ec6dfe0800000000000000
+      internalID: -1164516702387437104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518e282e0daf9840800000000000000
+      internalID: 5233091568343089499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aaa69edba091d00800000000000000
+      internalID: 943797407692008019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618509538cb08e00800000000000000
+      internalID: 1045042385870225764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c403b6b0a9bfa9260800000000000000
+      internalID: 7105268001165488204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 240
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffd646d6d7093150800000000000000
+      internalID: 5852717810044035061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1ddff1ed07bf20800000000000000
+      internalID: 3438232104832147449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840e37a6382cf6990800000000000000
+      internalID: -7390474593809211320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eca5ffbfdd2f850800000000000000
+      internalID: 6409429294092308127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76d19dc5419bdb20800000000000000
+      internalID: 3160279292518192767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 120
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3eb90a547ddf860800000000000000
+      internalID: 7565439643099587580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 120
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ec8f3c62328940800000000000000
+      internalID: 5296851552245178780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a230c0e9842cb0800000000000000
+      internalID: -4889631697027292309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4072abdbd793fd10800000000000000
+      internalID: 2158235616979087436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f7778925f9aad0800000000000000
+      internalID: -2690349743661911186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6745dfb940c6d40800000000000000
+      internalID: 5578839106421814983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb30fa920dbfb050800000000000000
+      internalID: 5818577062472989680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kawaii_white_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e4f13bcb508340800000000000000
+      internalID: 4863988525834756901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

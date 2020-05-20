@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a9571c7cd043b08336729d670512ce, type: 3}
+  m_Name: MissilePod
+  m_EditorClassIdentifier: 
+  weaponId: 2
+  weaponPrefab: Missile
+  projectileDataId: 2
+  muzzleEff: Eff_Muzzle
+  attackDist: 25
+  attackDamage: 10
+  reloadTime: 0
+  aimTime: 0.5
+  clipSize: 10
+  refireTime: 1
+  firingArc: 65
+  WeaponName: MissilePod
+  splashRadius: 10
+  splashDamage: 20
+  splashknockBack: 40
+  targetsCategories:
+  - creep
+  - building

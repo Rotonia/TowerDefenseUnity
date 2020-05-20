@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a9571c7cd043b08336729d670512ce, type: 3}
+  m_Name: Bullet Cannon
+  m_EditorClassIdentifier: 
+  weaponId: 6
+  weaponPrefab: Cannon
+  projectileDataId: 5
+  muzzleEff: Eff_Muzzle
+  attackDist: 20
+  attackDamage: 4
+  reloadTime: 3
+  aimTime: 0.15
+  clipSize: 15
+  refireTime: 0.15
+  firingArc: 30
+  WeaponName: Cannon
+  splashRadius: 0
+  splashDamage: 0
+  splashknockBack: 0
+  targetsCategories:
+  - creep
+  - building
